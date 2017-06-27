@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/i_tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="개발자 소개"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/i_tv2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/i_tv3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="분반:02"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/i_tv4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="학번:20150991"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/i_tv5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="이름:박소연"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/i_tv6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/i_tv7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="앱 소개"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/i_tv8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=":개봉 영화정보를 관리하는 애플리케이션"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/i_tv9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1.영화제목 검색기능"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/i_tv10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2.RatingBar와 DatePicker사용"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/i_tv11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3.즐겨찾기 기능"
+        android:textSize="20sp" />
+</LinearLayout>
